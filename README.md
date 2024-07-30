@@ -1,5 +1,7 @@
 # tl;dd
 
+# changed terraform file before enabling actions
+
 *tl;dd was created by the team at [Spectacles](https://spectacles.dev) for the Looker Vertex AI Hackathon in June 2024.*
 
 tl;dd (too long, didn't dashboard) is a Looker application (extension) that creates AI summarizers for Looker dashboards that send scheduled emails to recipients in your organization.
